@@ -1,0 +1,6 @@
+PARAMETER,DESCRIPTION,VALUE
+BASE_SCORE,Base Score,600
+BASE_ODDS,Good to Bad Odds,50
+PDO,Points to Double the Odds,20
+FACTOR,PDO divided by ln(2),28.853901
+OFFSET,Scorecard Offset,487.122876

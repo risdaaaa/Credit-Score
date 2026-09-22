@@ -1,0 +1,14 @@
+VARIABLE,IV,IV_STRENGTH,SELECTION_STATUS,SELECTION_REASON
+EMPLOYMENT_DURATION,0.10719,Medium,SELECTED CANDIDATE,IV within modeling range
+AGE,0.08019,Weak,SELECTED CANDIDATE,IV within modeling range
+INCOME_TYPE,0.05790,Weak,SELECTED CANDIDATE,IV within modeling range
+EDUCATION,0.05084,Weak,SELECTED CANDIDATE,IV within modeling range
+CREDIT_AMOUNT,0.02905,Weak,SELECTED CANDIDATE,IV within modeling range
+FAMILY_STATUS,0.02171,Weak,SELECTED CANDIDATE,IV within modeling range
+HOUSING,0.01573,Very Weak,REVIEW / EXCLUDE,Very weak predictive information
+PAYMENT_AMOUNT,0.01323,Very Weak,REVIEW / EXCLUDE,Very weak predictive information
+CREDIT_TO_INCOME,0.00782,Very Weak,REVIEW / EXCLUDE,Very weak predictive information
+ANNUAL_INCOME,0.00690,Very Weak,REVIEW / EXCLUDE,Very weak predictive information
+CHILDREN,0.00571,Very Weak,REVIEW / EXCLUDE,Very weak predictive information
+PAYMENT_TO_INCOME,0.00489,Very Weak,REVIEW / EXCLUDE,Very weak predictive information
+FAMILY_MEMBERS,0.00349,Very Weak,REVIEW / EXCLUDE,Very weak predictive information

@@ -1,0 +1,8 @@
+TERM,VARIABLE_TYPE,DESCRIPTION,COEFFICIENT
+INTERCEPT,INTERCEPT,Logistic regression intercept,-2.43440000
+WOE_AGE,WOE,WOE transformed Age,-0.53670000
+WOE_EMPLOYMENT,WOE,WOE transformed Employment Duration,-0.68540000
+WOE_INCOME_TYPE,WOE,WOE transformed Income Type,-0.30840000
+WOE_EDUCATION,WOE,WOE transformed Education,-1.09710000
+WOE_CREDIT_AMOUNT,WOE,WOE transformed Credit Amount,-0.86590000
+WOE_FAMILY,WOE,WOE transformed Family Status,-0.46050000
